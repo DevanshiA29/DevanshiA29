@@ -1,11 +1,23 @@
-# 💫 About Me:
-👋I'm currently working on building projects related to Generative AI and MLOps, improving my Java development skills.<br>
-👀I'm looking to collaborate on Open-source projects in AI/ML, MLOps tooling, and Java-based projects.<br>
-💞️I'm looking for help with Advanced Generative AI models, MLOps best practices, and cloud deployments.<br>
-🌱I'm currently learning Generative AI and deep learning frameworks like TensorFlow and PyTorch.<br>
-⚡Ask me about Java programming, web development, data structures, and algorithms.<br>
+# Hi, I'm Devanshi! 👋
 
+🎓 B.Tech Student | 💻 Aspiring SWE/AI Intern | 💡 MERN Stack Developer  
+🌱 Currently learning Node.js, DSA & AI  
+📫 Reach me: [devanshi@example.com](mailto:devanshiawasthi29@gmail.com) | [LinkedIn](https://www.linkedin.com/in/devanshiawasthi29/)  
+🌐 Portfolio: [devanshi.vercel.app](https://devanshi.vercel.app)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/devanshiawasthi29) 
+## 🚀 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
+## 📊 GitHub Stats
+![Devanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevanshiA29&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshiA29&layout=compact)
+
+## 📂 Featured Projects
+- 🔗 [SnapLink](https://github.com/DevanshiA29/SnapLink) – Smart link sharer
+- 💰 [SpendWise](https://github.com/DevanshiA29/SpendWise) – Expense tracking made simple
+- 🤖 [Disease Classifier](https://github.com/DevanshiA29/Disease-Classification) – AI model to detect diseases via images
+
+https://github.com/DevanshiA29/DevanshiA29/assets/https://ibb.co/gZxsGkkn/banner.png
