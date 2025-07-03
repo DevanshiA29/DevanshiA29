@@ -20,4 +20,7 @@
 - 💰 [SpendWise](https://github.com/DevanshiA29/SpendWise) – Expense tracking made simple
 - 🤖 [Disease Classifier](https://github.com/DevanshiA29/Disease-Classification) – AI model to detect diseases via images
 
-https://github.com/DevanshiA29/DevanshiA29/assets/https://ibb.co/gZxsGkkn/banner.png
+<p align="center">
+  <img src="https://i.ibb.co/ABC123/my-banner.png" alt="My Banner" width="100%" />
+</p>
+
