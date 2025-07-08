@@ -2,7 +2,7 @@
 
 🎓 B.Tech Student | 💻 Aspiring SWE/AI Intern | 💡 MERN Stack Developer  
 🌱 Currently learning Node.js, DSA & AI  
-📫 Reach me: [devanshi@example.com](mailto:devanshiawasthi29@gmail.com) | [LinkedIn](https://www.linkedin.com/in/devanshiawasthi29/)  
+📫 Reach me: [devanshiawasthi29@gmail.com.com](mailto:devanshiawasthi29@gmail.com) | [LinkedIn](https://www.linkedin.com/in/devanshiawasthi29/)  
 🌐 Portfolio: [devanshi.vercel.app](https://devanshi.vercel.app)
 
 ## 🚀 Tech Stack
