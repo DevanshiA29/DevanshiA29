@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/DevanshiA29/DevanshiA29/blob/main/banner.png?raw=true" alt="Devanshi Awasthi Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Devanshi Awasthi</h1>
 <h3 align="center">💡 Turning Ideas into Smart Systems | Aspiring Software Engineer & AI Enthusiast</h3>
 
