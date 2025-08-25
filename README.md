@@ -18,7 +18,7 @@
 <tr>
 <td width="75%" valign="top">
 
-I am a **Backend Developer & AI Enthusiast** with a strong foundation in **Java, Python, and the MERN stack**.  
+I am a **Backend Developer & AI Enthusiast** with a strong foundation in **Java and the MERN stack**.  
 I specialize in building **scalable, intelligent systems** and have hands-on experience with **databases, cloud services, and API development**.  
 
 🔹 Proficient in **Data Structures & Algorithms**, problem-solving, and writing clean, maintainable code.  
@@ -31,7 +31,7 @@ I specialize in building **scalable, intelligent systems** and have hands-on exp
 
 </td>
 <td width="40%" align="center">
-<img src="https://github.com/DevanshiA29/DevanshiA29/blob/main/Daily%20Art.gif?raw=true" alt="Coding GIF" align="right" width="260" style="border-radius:12px;" />
+<img src="https://github.com/DevanshiA29/DevanshiA29/blob/main/gif.png" alt="Coding GIF" align="right" width="260" style="border-radius:12px;" />
 </td>
 </tr>
 </table>
