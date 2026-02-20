@@ -7,12 +7,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Devanshi Awasthi</h1>
-<h3 align="center">💡 Turning Ideas into Smart Systems | Aspiring Software Engineer & AI Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=FF2E97&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;💡+Turning+Ideas+into+Smart+Systems;Building+Systems+That+Scale;AI+/+ML+Developer" />
+</p>
+<!-- <h3 align="center">💡+Turning+Ideas+into+Smart+Systems+|+Aspiring+Software+Engineer+&+AI+Enthusiast</h3> -->
 
 ---
 
 
-## 👩‍💻 About Me  
+# 👩‍💻 About Me  <p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME&left_color=FF0099&right_color=FF10F0&left_text=PROFILE+VISITS" /> </p>
 
 <table width="100%">
 <tr>
@@ -100,17 +104,6 @@ I specialize in building **scalable, intelligent systems** and have hands-on exp
 </p>
 
 ---
-
-### 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevanshiA29&show_icons=true&theme=tokyonight" alt="GitHub stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevanshiA29&theme=tokyonight" alt="GitHub streak" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevanshiA29&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
 ---
 
 ### 🚀 Fun Fact  
